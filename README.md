@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, This is Simina Mannan Trisha</h1>
-<h3 align="center">I'm an ECE graduate from KUET with a strong passion for leveraging AI to enhance security protocols. My expertise lies in implementing advanced AI frameworks to develop innovative and robust security solutions.</h3>
+<h3 align="center">I'm ECE graduate from KUET with a strong passion for leveraging AI to enhance security protocols. My expertise lies in implementing advanced AI frameworks to develop innovative and robust security solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siminatrisha&label=Profile%20views&color=0e75b6&style=flat" alt="siminatrisha" /> </p>
 
