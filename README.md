@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **ML,DL,AI Frameworks and it's application on Security Protocols**
+- 🌱 I’m currently learning **ML,DL,AI Frameworks and it's application on Security Protocols, Wireless Sensor, IoT, Chip Design and Fabrication**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
